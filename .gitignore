@@ -338,3 +338,5 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/algorithm/1744_수 묶기.cpp
+/algorithm/1647_도시분할계획.cpp
