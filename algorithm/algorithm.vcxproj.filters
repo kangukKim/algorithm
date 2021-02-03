@@ -105,5 +105,11 @@
     <ClCompile Include="2776_암기왕.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="13301_타일장식물.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1965_상자넣기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
